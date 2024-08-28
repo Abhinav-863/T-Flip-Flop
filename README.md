@@ -18,7 +18,8 @@ TESTING THE CIRCUIT
 ![image](https://github.com/user-attachments/assets/86f293fa-f0d8-480b-978a-263f1980dd1a)
 
 OUTPUT WAVEFORM
-![image](https://github.com/user-attachments/assets/8c486fb1-55dd-44b7-826b-7e036111e6a5)
+![image](https://github.com/user-attachments/assets/668b3041-7dac-4083-9fc8-1fae90ddff75)
+
 
 Transient analysis of T Flipflops
 In the above waveform red color waveforms is clock and green color waveform is T input. In the above waveform we can see that, at the start, the flip-flop has an initial state, typically either set or reset, depending on its design. The flip-flop waits for the clock signal to change from high to low that is, it reacts to the falling edge of the clock signal. The flip-flop has an input called T. If T is high (usually logic 1), the flip-flop toggles its output. If T is low (usually logic 0), the output remains unchanged. If T is high at the falling edge of the clock, the flip-flop toggles its output. If T is low, the output remains the same. The flip-flop maintains its output state until the next falling edge of the clock signal occurs.
