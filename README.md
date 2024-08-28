@@ -18,7 +18,8 @@ TESTING THE CIRCUIT
 ![image](https://github.com/user-attachments/assets/86f293fa-f0d8-480b-978a-263f1980dd1a)
 
 OUTPUT WAVEFORM
-![image](https://github.com/user-attachments/assets/668b3041-7dac-4083-9fc8-1fae90ddff75)
+![image](https://github.com/user-attachments/assets/6e1ae9a9-b875-46d7-959b-eebc8ed326da)
+
 
 
 Transient analysis of T Flipflops
